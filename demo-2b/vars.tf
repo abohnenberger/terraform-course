@@ -1,11 +1,11 @@
-variable "AWS_ACCESS_KEY" {
+variable "AKIA3BCB2R4BKWGHYKJE" {
 }
 
-variable "AWS_SECRET_KEY" {
+variable "lv+VD68WPhdLYzGE/fPh9DSMA9HUoifClW1B6p16" {
 }
 
 variable "AWS_REGION" {
-  default = "eu-west-1"
+  default = "us-east-1"
 }
 
 # Note: WIN_AMIS is now Replaced by ami.tf
